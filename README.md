@@ -7,11 +7,18 @@
 
 ---
 
-## 📂 Дані
-- `events.csv` — продажі 
-- `products.csv` — категорії товарів  
-- `countries.csv` — географія  
+## 📓 Notebook (Google Colab)
 
+Повний аналіз проєкту доступний у Google Colab:
+
+👉 [Відкрити ноутбук](./notebook/Exploratory Data Analysis.ipynb)
+
+## 📂 Дані
+Проєкт базується на наступних файлах:
+
+- 📊 [events.csv — продажі](./data/events.csv)  
+- 📦 [products.csv — категорії товарів](./data/products.csv)  
+- 🌍 [countries.csv — географія](./data/countries.csv)
 ---
 
 ## 🧹 Етапи роботи
