@@ -11,7 +11,7 @@
 
 Повний аналіз проєкту доступний у Google Colab:
 
-👉 [Відкрити ноутбук](./notebook/Exploratory Data Analysis.ipynb)
+👉 [Відкрити ноутбук](./notebook/Exploratory_Data_Analysis.ipynb)
 
 ## 📂 Дані
 Проєкт базується на наступних файлах:
